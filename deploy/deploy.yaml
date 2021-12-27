@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: igdocker221/myapp
+        image: igdocker221/myappv2
         ports:
         - containerPort: 3001
 ---
